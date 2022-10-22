@@ -1,6 +1,6 @@
 # Geometria Analítica e Álgebra Linear[MGA001]🚀
 
-## Objetivos da Disciplina: Apresentar o conteúdo de Geometria Analítica e Álgebra Linear, com material complementar, tendo em vista aplicações na solução de problemas práticos, tecnológicos e da natureza. 🪐
+##Objetivos da Disciplina: Apresentar o conteúdo de Geometria Analítica e Álgebra Linear, com material complementar, tendo em vista aplicações na solução de problemas práticos, tecnológicos e da natureza. 🪐
 
 * [Semana 1: Matrizes]
 
